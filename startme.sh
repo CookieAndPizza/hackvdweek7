@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]
   then
-    echo "What message would you like ecnrypted?"
+    echo "What message would you like encrypted?"
     exit 1
 fi
 
